@@ -12,3 +12,4 @@ Steps:
 Tool used:
 Jira Service Management
 
+Files: https://github.com/JoandsonSilva/Incident-Management-Simulation-Jira-/tree/main/files
